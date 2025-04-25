@@ -2,9 +2,9 @@
 
 I’m a software engineer with several years experience in multiple full stack web ecosystems and a wide-range of technical and non-technical skills in a number of fields and contexts.  I’m insatiably curious, detail-oriented, and love to tackle interesting technical problems. I enjoy collaboration and I’m told I have an easy-going and good-humored nature. I like making mistakes and sometimes I learn from them!
 
-## <img src="" alt="nimbus_logo" width="25"/> Nimbus
+## <img src="https://github.com/nimbusNLP/nimbusNLP.github.io/blob/main/static/img/nimbusMain.png" alt="nimbus_logo" width="25"/> Nimbus
 
-My most recent work is on [Nimbus](https://tumbleweed-cdc.github.io/](https://nimbusnlp.github.io/), an open-source, .
+My most recent work is on [Nimbus](https://nimbusnlp.github.io/), an open-source, .
 
 If you're interested in learning more, I authored an [in-depth technical case study on the problem domain](https://nimbusnlp.github.io/docs/introduction), system design, and engineering decisions involved in the creation of Nimbus.
 
