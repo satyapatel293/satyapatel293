@@ -4,7 +4,7 @@ I’m a software engineer with several years experience in multiple full stack w
 
 ## <img src="https://github.com/nimbusNLP/nimbusNLP.github.io/blob/main/static/img/nimbusMain.png" alt="nimbus_logo" width="25"/> Nimbus
 
-My most recent work is on [Nimbus](https://nimbusnlp.github.io/), an open-source, deployment framework for natural language process models.
+My most recent work is on [Nimbus](https://nimbusnlp.github.io/), an open-source, deployment framework for natural language processing models.
 
 If you're interested in learning more, I authored an [in-depth technical case study on the problem domain](https://nimbusnlp.github.io/docs/introduction), system design, and engineering decisions involved in the creation of Nimbus.
 
